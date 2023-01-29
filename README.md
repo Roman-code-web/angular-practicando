@@ -1,5 +1,14 @@
 # Practica
 
+comienzo correcto
+
+1.CREATE UN PROYECTO EN FIREBASE
+2. DESACTIVA EL ANALITIC
+3.TE VAS AL ICONO DE WEB Y CREAS 
+-----------------------------
+ng g environments
+firebase login
+ng add @angular/fire
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
 ## Development server
